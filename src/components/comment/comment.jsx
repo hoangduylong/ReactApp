@@ -16,6 +16,6 @@ const Comment = ({ review: { rating, comment } }) => (
     />
     <div className='mt-n3'>{comment}</div>
   </div>
-);
+); 
 
 export default Comment;
